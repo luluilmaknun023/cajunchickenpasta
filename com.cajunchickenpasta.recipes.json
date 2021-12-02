@@ -99,13 +99,13 @@
 	{
       "id": 4,
       "name_category": "Medium",
-      "title": "Pumpkin Pie Recipe",
-      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/11/26/0/FN_Pumpkin-Pie_s4x3.jpg.rend.hgtvcom.826.620.suffix/1386172256183.jpeg",
-      "description": "Fill a sweet shortcrust pastry tart case with lightly spiced squash to make a traditional American treat.",
-      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Pumpkin%20Pie%20Recipe.html"
+      "title": "Creamy Cajun Chicken Pasta",Juicy chicken breast tossed with tender pasta in a creamy cajun garlic sauce, ready in 30 minutes.
+      "image": "https://natashaskitchen.com/wp-content/uploads/2021/10/Cajun-Chicken-Pasta-3.jpg",
+      "description": "Juicy chicken breast tossed with tender pasta in a creamy cajun garlic sauce, ready in 30 minutes.",
+      "link": "https://luluilmaknun023.github.io/cajunchickenpasta/Creamy%20Cajun%20Chicken%20Pasta.html"
     },
 	 {
-      "id": 2,
+      "id": 3,
       "name_category": "Medium",
       "title": "Pumpkin Bread Recipe",
       "image": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2014/09/pumpkin-bread-600x900.jpg.webp",
