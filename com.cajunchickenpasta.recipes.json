@@ -107,18 +107,18 @@
 	 {
       "id": 3,
       "name_category": "Medium",
-      "title": "Pumpkin Bread Recipe",
-      "image": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2014/09/pumpkin-bread-600x900.jpg.webp",
-      "description": "Homemade pumpkin bread is a favorite fall recipe packed with sweet cinnamon spice, chocolate chips, and tons of pumpkin flavor.",
-      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Pumpkin%20Bread%20Recipe.html"
+      "title": "Cajun Chicken Alfredo Crockpot Recipe",
+      "image": "https://www.crockpotsandflipflops.com/wp-content/uploads/2020/09/cajun-close-plate-2-750x500.jpg",
+      "description": "Make this creamy Alfredo Chicken with a kick of Cajun.",
+      "link": "https://luluilmaknun023.github.io/cajunchickenpasta/Cajun%20Chicken%20Alfredo%20Crockpot%20Recipe.html"
     },
 	 {
-      "id": 1,
+      "id": 2,
       "name_category": "Medium",
-      "title": "Pumpkin Chocolate Chip Cookies",
-      "image": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2013/09/pumpkin-chocolate-chip-cookies-on-plate-600x900.jpg.webp",
-      "description": "You’ll love these pumpkin chocolate chip cookies! Omitting the egg, using melted butter, and blotting the pumpkin guarantee a chewier texture.",
-      "link": "https://luluilmaknun023.github.io/pumpkinseedrecipe/Pumpkin%20Chocolate%20Chip%20Cookies.html"
+      "title": "Alfredo Sauce Recipes",
+      "image": "https://www.homemadeinterest.com/wp-content/uploads/2020/09/Keto-Alfredo-Sauce_IG-3.jpg",
+      "description": "The best homemade Alfredo sauce recipe made from scratch with only a handful of natural ingredients.",
+      "link": "https://luluilmaknun023.github.io/cajunchickenpasta/Alfredo%20Sauce%20Recipes.html"
     }
   ]
 }
