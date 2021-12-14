@@ -8,7 +8,7 @@
       "native_for_admob":"ca-app-pub-9200602507152446/2413356487",
       "backup_ads_banner":"3dd508bb883b33bf",
       "backup_ads_intertitial":"91b32250ed91f6ed",
-      "interval_intertitial": 7,
+      "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "BTS Meal McDonald",
