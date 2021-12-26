@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-9200602507152446/6087193405",
-      "main_ads_intertitial":"ca-app-pub-9200602507152446/9992463608",
-      "native_for_admob":"ca-app-pub-9200602507152446/2413356487",
+      "main_ads_banner": "3dd508bb883b33bf",
+      "main_ads_intertitial":"91b32250ed91f6ed",
+      "native_for_admob":"",
       "backup_ads_banner":"3dd508bb883b33bf",
       "backup_ads_intertitial":"91b32250ed91f6ed",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "BTS Meal McDonald",
